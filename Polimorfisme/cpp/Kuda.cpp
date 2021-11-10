@@ -4,7 +4,7 @@
   NPM       : 140810200020, 140810200030, 140810200032, 140810200048
   Kelas     : B
   Tanggal   : 10 November 2021
-  Deskripsi : File class implementasi Polimorfisme di C++
+  Deskripsi : Implementasi Polimorfisme makhluk menggunakan C++, class Kuda
 *********************************************/
 
 #include <iostream>
