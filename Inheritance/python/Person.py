@@ -1,3 +1,12 @@
+# /*
+#   Nama File : Person.py
+#   Nama      : Andaru Danurdara Wibisana, Fauzan Azmi Dwicahyo, Irfan Kamal, Muhammad Attila An Naufal
+#   NPM       : 140810200020, 140810200030, 140810200032, 140810200048
+#   Kelas     : B
+#   Tanggal   : 10 November 2021
+#   Deskripsi : Implementasi kasus nilai sidang menggunakan Python, class Person
+# *********************************************/
+
 class Person:
     def __init__(self, name, age):
         self.__name = name
