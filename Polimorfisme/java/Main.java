@@ -1,3 +1,12 @@
+/*
+  Nama File : Main.java
+  Nama      : Andaru Danurdara Wibisana, Fauzan Azmi Dwicahyo, Irfan Kamal, Muhammad Attila An Naufal
+  NPM       : 140810200020, 140810200030, 140810200032, 140810200048
+  Kelas     : B
+  Tanggal   : 10 November 2021
+  Deskripsi : Implementasi Polimorfisme makhluk menggunakan Java, class Main
+*********************************************/
+
 public class Main{
     public static void main(String[] args) {
         //Polimorfisme cara 1
