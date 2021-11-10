@@ -10,6 +10,22 @@
 from Anjing import Anjing
 from Kuda import Kuda
 from Orangutan import Orangutan
+from Mamalia import Mamalia
 from Makhluk import Makhluk
 
 # Main
+if __name__ == "__main__":
+    makhluk = Makhluk()
+    makhluk.info()
+
+    makhluk = Mamalia()
+    makhluk.info()
+
+    makhluk = Anjing()
+    makhluk.info()
+
+    makhluk = Kuda()
+    makhluk.info()
+
+    makhluk = Orangutan()
+    makhluk.info()
