@@ -15,6 +15,6 @@ class Makhluk:
     # pass dipakai biar fungsi __init__ ga kosong. (harus ada perintah)
 
     def info(self):
-        print("Makhluk merupakan entitas yang hidup")
-
+        print("Makhluk hidup terdiri manusia, hewan, dan tumbuhan.")
+        print("Hewan dapat dikelompokkan menjadi mamalia dan bukan mamalia.\n")
     

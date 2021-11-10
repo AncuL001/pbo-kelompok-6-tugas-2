@@ -14,4 +14,5 @@ class Kuda(Mamalia):
         pass
 
     def info(self):
-        print ("Kuda merupakan mamalia berkaki 4 yang dapat berlari sangat kencang")
+        print("Kuda merupakan mamalia yang berasal dari genus Equus.")
+        print("Kuda sudah mulai dimanfaatkan untuk keperluan manusia sejak 2000 SM.\n")

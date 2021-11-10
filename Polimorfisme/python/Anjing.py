@@ -14,6 +14,7 @@ class Anjing(Mamalia):
         pass
     
     def info(self):
-        print("Anjing merupakan mamalia yang umum dijadikan peliharaan")
+        print("Anjing merupakan mamalia yang mengalami domestikasi dari serigala")
+        print("Anjing telah berkembang menjadi ratusan ras dengan bermacam-macam variasi\n")
 
     

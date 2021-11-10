@@ -14,4 +14,5 @@ class Orangutan(Mamalia):
         pass
 
     def info(self):
-        print("Orangutan merupakan mamalia yang cerdas dan menyerupai manusia")
+        print("Orangutan merupakan mamalia dan juga termasuk jenis kera yang besar.")
+        print("Orangutan sebagian besar hidup di hutan tropis Indonesia dan Malaysia.\n")

@@ -14,4 +14,5 @@ class Mamalia(Makhluk):
         pass
 
     def info(self):
-        print ("Mamalia merupakan makhluk yang menyusu")
+        print("Beberapa hewan tergolong ke dalam mamalia.")
+        print("Mamalia merupakan hewan menyusui yang berciri-ciri berdarah panas dan memiliki rambut atau bulu.\n")
